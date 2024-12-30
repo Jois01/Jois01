@@ -40,7 +40,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/USERNAME/USERNAME/blob/output/snake.svg)
+![Snake animation](https://github.com/jois01/jois01/blob/output/snake.svg)
 
 ###
 
